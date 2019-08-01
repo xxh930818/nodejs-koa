@@ -16,7 +16,9 @@ module.exports = {
         pathRewrite: {
            '^/api': '/static/mock'
         }
+      }
     },
+
 
     // Various Dev Server settings
     host: '49.234.238.74', // can be overwritten by process.env.HOST
